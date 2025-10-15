@@ -19,13 +19,17 @@ React Window: Renderização eficiente de listas grandes
 
 Gh-Pages: Deploy automático no GitHub Pages
 
-🌏 API Externa
+**🌏 API Externa**
 
 O projeto integra a [API externa Monster Hunter World Database API](https://docs.mhw-db.com/), que fornece todas as informações sobre os componentes e elementos do universo do jogo.
 
 **🔗 Link Principal do Projeto**
 
 Todos os commits/históricos do projeto foram realizados nesse repositório do github: https://github.com/LarissaIovanovich/fullstack2
+
+**🌐 Deploy**
+
+Acesse o deploy [aqui](https://larissaiovanovich.github.io/fullstack2/).
 
 **🧠 Desenvolvido por**
 
@@ -35,7 +39,7 @@ Luiza Matilha Sacom e Larissa Iovanovich Ribeiro
 
 **📸 Print da Aplicação**
 
-
+![Monster Hunter](./assets/tela_principal.png)
 
 
 
